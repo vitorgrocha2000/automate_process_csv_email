@@ -17,7 +17,7 @@ Este código em Python tem como objetivo automatizar o processo de geração e e
 Antes de executar o código, certifique-se de que você possui os seguintes requisitos:
 
 - Python 3 instalado
-- Bibliotecas necessárias (ex: pandas, smtplib)
+- Bibliotecas necessárias: pyautogui, time, pandas
 - Acesso ao sistema da empresa
 - Configurações de e-mail para enviar mensagens SMTP
 
